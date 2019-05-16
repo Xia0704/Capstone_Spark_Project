@@ -14,4 +14,8 @@ user information and actions on music.  This project aims to use spark to predic
 
 ## Project Results
 
+This project uses four machine learning models logistic regression, random forest, decision tree and GBT with different hyperparameters The best model is (with AUC score )
+
 ## Deliverables
+
+One blog with the project details are posted in 
