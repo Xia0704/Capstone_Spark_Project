@@ -7,6 +7,11 @@ user information and actions on music.  This project aims to use spark to predic
 
 ## Project Procedures
 
+1. Data Cleaning
+2. Data Exploration
+3. Feature Engineering
+4. Modeling and Prediction
+
 ## Project Results
 
 ## Deliverables
