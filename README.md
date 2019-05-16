@@ -18,4 +18,4 @@ This project uses four machine learning models logistic regression, random fores
 
 ## Deliverables
 
-One blog with the project details are posted in 
+One blog with the project details is posted in 
