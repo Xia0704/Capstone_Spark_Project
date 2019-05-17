@@ -18,4 +18,4 @@ This project uses four machine learning models logistic regression, random fores
 
 ## Deliverables
 
-One blog with the project details is posted in 
+One blog with the project details is posted in [here](https://medium.com/@shawnli_74162/prediction-of-churned-users-for-sparkify-by-spark-1fdc5a51b1c4)
